@@ -1,0 +1,31 @@
+  /* HEADER */
+
+  .header{
+      background-color: #19408f;
+      position: sticky;
+      top: 0.001px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+ 
+  .header__logo{
+      background-color: #19408f;
+  }    
+
+  .header__menu{
+      background-color: #19408f;
+      list-style-type: none;
+      font-weight: normal;
+      font-size: 18px;
+      text-align: center;
+      text-decoration: none;
+  }
+
+  .header__menu-lista{
+      background-color: #19408f;
+      display: inline;
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+  }  
