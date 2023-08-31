@@ -19,7 +19,6 @@ const NavBar = () =>{
           <li className="header__menu-lista"><a href="04Decorativos.html">Decorativos</a></li>
           <li className="header__menu-lista"><a href="05Contato.html">Contato</a></li>
           <CartWidget />
-          <ItemListContainer />
         </ul>
       </header>
     </div> 
